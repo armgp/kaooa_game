@@ -21,7 +21,7 @@
             6.6 The vulture wins if it makes 4 kills.
             6.7 The crows win if it can block the vulture from moving anywhere.
             
-### Q2 - Capture and Log Mouse Events
+### Capture and Log Mouse Events
 
     As soon as the game ends and either the crow/vulture wins a file is downloaded
     which contains the mouse events of the entire game. Or we can click the Download Events link during the game for the same.
