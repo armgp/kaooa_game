@@ -25,3 +25,10 @@
 
     As soon as the game ends and either the crow/vulture wins a file is downloaded
     which contains the mouse events of the entire game. Or we can click the Download Events link during the game for the same.
+
+### Screenshots
+![sc1](https://user-images.githubusercontent.com/49094298/210719127-f4227f5f-4087-4f9b-9bc1-9c4947a52f27.png)
+![sc2](https://user-images.githubusercontent.com/49094298/210719164-6b75bc3f-fe8f-4c22-97a2-f3938b4b2d77.png)
+![sc3](https://user-images.githubusercontent.com/49094298/210719185-b48133a7-e366-43a5-898b-42486ad55c2e.png)
+![sc4](https://user-images.githubusercontent.com/49094298/210719210-1017895d-97d7-4af8-acc0-c23e071eaeb8.png)
+
