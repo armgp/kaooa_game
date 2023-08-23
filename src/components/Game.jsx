@@ -270,7 +270,7 @@ export default function Game() {
                         event.stopImmediatePropagation();
                     }, true);
                     crowswon.play();
-                    exportMouseInfo();
+                    // exportMouseInfo();
                 }
             }else if(crowsTurn){
                 if(vultureKills == 4){
@@ -282,7 +282,7 @@ export default function Game() {
                         event.stopImmediatePropagation();
                     }, true);
                     vulturewon.play();
-                    exportMouseInfo();
+                    // exportMouseInfo();
                 }
             }
             
